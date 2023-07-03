@@ -1,0 +1,20 @@
+<datos>
+    <item>
+        <id>1</id>
+        <nombre>John Doe</nombre>
+        <edad>30</edad>
+        <email>johndoe@example.com</email>
+    </item>
+    <item>
+        <id>2</id>
+        <nombre>Jane Smith</nombre>
+        <edad>35</edad>
+        <email>janesmith@example.com</email>
+    </item>
+    <item>
+        <id>3</id>
+        <nombre>Bob Johnson</nombre>
+        <edad>28</edad>
+        <email>bobjohnson@example.com</email>
+    </item>
+</datos>

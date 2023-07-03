@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="esquema.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="662.51461"
+     inkscape:cy="433.85319"
+     inkscape:window-width="1504"
+     inkscape:window-height="1040"
+     inkscape:window-x="383"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0000ff;stroke:#000000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 83.187117,114.37683 H 136.21613"
+       id="path4026"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#cccccc;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1514"
+       width="74.994362"
+       height="85.840652"
+       x="8.8709669"
+       y="69.136993"
+       ry="1.9721535" />
+    <rect
+       style="fill:#800000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1516"
+       width="69.261314"
+       height="13.015548"
+       x="11.886927"
+       y="79.582626"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="13.266431"
+       y="90.96283"
+       id="text1730"><tspan
+         sodipodi:role="line"
+         id="tspan1728"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="13.266431"
+         y="90.96283">bases de datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="59.721607"
+       y="83.402901"
+       id="text1890"><tspan
+         sodipodi:role="line"
+         id="tspan1888"
+         style="stroke-width:1.10477"
+         x="59.721607"
+         y="83.402901">xSQL vs NoSQL</tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1942"
+       width="69.261314"
+       height="13.015548"
+       x="11.886927"
+       y="93.935524"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="13.266431"
+       y="105.31572"
+       id="text1946"><tspan
+         sodipodi:role="line"
+         id="tspan1944"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="13.266431"
+         y="105.31572">archivos estructurados</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="48.65564"
+       y="97.755791"
+       id="text1950"><tspan
+         sodipodi:role="line"
+         id="tspan1948"
+         style="stroke-width:1.10477"
+         x="48.65564"
+         y="97.755791">JSON - XML - Excel - CSV</tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2678"
+       width="69.261314"
+       height="13.015548"
+       x="11.886927"
+       y="108.72667"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="13.266431"
+       y="120.10686"
+       id="text2682"><tspan
+         sodipodi:role="line"
+         id="tspan2680"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="13.266431"
+         y="120.10686">archivos no estructurados</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="51.066048"
+       y="112.54695"
+       id="text2686"><tspan
+         sodipodi:role="line"
+         id="tspan2684"
+         style="stroke-width:1.10477"
+         x="51.066048"
+         y="112.54695">Word, txt, powerpoint</tspan></text>
+    <rect
+       style="fill:#008080;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2688"
+       width="69.261314"
+       height="13.015548"
+       x="11.886927"
+       y="123.2987"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="13.266431"
+       y="134.67889"
+       id="text2692"><tspan
+         sodipodi:role="line"
+         id="tspan2690"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="13.266431"
+         y="134.67889">archivos protegidos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="74.731888"
+       y="127.11898"
+       id="text2696"><tspan
+         sodipodi:role="line"
+         id="tspan2694"
+         style="stroke-width:1.10477"
+         x="74.731888"
+         y="127.11898">pdf</tspan></text>
+    <rect
+       style="fill:#800080;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2698"
+       width="69.261314"
+       height="13.015548"
+       x="11.886927"
+       y="137.98027"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="13.266431"
+       y="149.36047"
+       id="text2702"><tspan
+         sodipodi:role="line"
+         id="tspan2700"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="13.266431"
+         y="149.36047">imágenes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="60.707684"
+       y="141.80055"
+       id="text2706"><tspan
+         sodipodi:role="line"
+         id="tspan2704"
+         style="stroke-width:1.10477"
+         x="60.707684"
+         y="141.80055">jpg/png + OCR</tspan></text>
+    <circle
+       style="fill:#800080;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="path3538"
+       cx="113.53637"
+       cy="114.59595"
+       r="14.462459" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="107.39846"
+       y="112.94618"
+       id="text3594"><tspan
+         sodipodi:role="line"
+         id="tspan3592"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="107.39846"
+         y="112.94618">ingestión</tspan></text>
+    <ellipse
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path3648"
+       cx="150.41507"
+       cy="118.64256"
+       rx="10.458923"
+       ry="3.6412549" />
+    <ellipse
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="ellipse3754"
+       cx="150.41507"
+       cy="114.61395"
+       rx="10.458923"
+       ry="3.6412549" />
+    <ellipse
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="ellipse3756"
+       cx="150.41507"
+       cy="111.20511"
+       rx="10.458923"
+       ry="3.6412549" />
+    <ellipse
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="ellipse3758"
+       cx="150.41507"
+       cy="107.17649"
+       rx="10.458923"
+       ry="3.6412549" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#0000ff;stroke:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="148.92557"
+       y="125.77149"
+       id="text3814"><tspan
+         sodipodi:role="line"
+         id="tspan3812"
+         style="stroke:none;stroke-width:1.10477"
+         x="148.92557"
+         y="125.77149">SQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="109.15149"
+       y="117.00005"
+       id="text3920"><tspan
+         sodipodi:role="line"
+         id="tspan3918"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="109.15149"
+         y="117.00005">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.07828px;fill:#0000ff;stroke:#000000;stroke-width:3.21859;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="89.794159"
+       y="174.45941"
+       id="text4595"><tspan
+         sodipodi:role="line"
+         id="tspan4593"
+         style="fill:#000000;stroke:none;stroke-width:3.21859"
+         x="89.794159"
+         y="174.45941">Python - R - Hadoop &amp; Spark</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#000000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 159.66285,114.37683 h 53.02902"
+       id="path5439"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#800080;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="circle5441"
+       cx="190.0121"
+       cy="114.59595"
+       r="14.462459" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="183.87419"
+       y="112.94618"
+       id="text5445"><tspan
+         sodipodi:role="line"
+         id="tspan5443"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="183.87419"
+         y="112.94618">análisis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="180.82387"
+       y="116.92258"
+       id="text5449"><tspan
+         sodipodi:role="line"
+         id="tspan5447"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="180.82387"
+         y="116.92258">Python + R + ...</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5453"
+       width="74.994362"
+       height="85.840652"
+       x="217.42964"
+       y="69.136993"
+       ry="1.9721535" />
+    <rect
+       style="fill:#800000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5455"
+       width="69.261314"
+       height="13.015548"
+       x="220.4456"
+       y="79.582626"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="221.82512"
+       y="90.96283"
+       id="text5459"><tspan
+         sodipodi:role="line"
+         id="tspan5457"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="221.82512"
+         y="90.96283">gráficas</tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5465"
+       width="69.261314"
+       height="13.015548"
+       x="220.4456"
+       y="93.935524"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="221.82512"
+       y="105.31572"
+       id="text5469"><tspan
+         sodipodi:role="line"
+         id="tspan5467"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="221.82512"
+         y="105.31572">informes</tspan></text>
+    <rect
+       style="fill:#008000;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5475"
+       width="69.261314"
+       height="13.015548"
+       x="220.4456"
+       y="108.72667"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="221.82512"
+       y="120.10686"
+       id="text5479"><tspan
+         sodipodi:role="line"
+         id="tspan5477"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="221.82512"
+         y="120.10686">documentos</tspan></text>
+    <rect
+       style="fill:#008080;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5485"
+       width="69.261314"
+       height="13.015548"
+       x="220.4456"
+       y="123.2987"
+       ry="1.9721535" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.77285px;fill:#ffffff;stroke-width:1.10477;stroke-linecap:round;stroke-linejoin:round"
+       x="221.82512"
+       y="134.67889"
+       id="text5489"><tspan
+         sodipodi:role="line"
+         id="tspan5487"
+         style="fill:#ffffff;stroke-width:1.10477"
+         x="221.82512"
+         y="134.67889">acciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:1.265;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="11.792715"
+       y="73.516296"
+       id="text5511"><tspan
+         sodipodi:role="line"
+         id="tspan5509"
+         style="stroke-width:1.265"
+         x="11.792715"
+         y="73.516296">orígenes de datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:1.265;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="271.59247"
+       y="73.139931"
+       id="text5515"><tspan
+         sodipodi:role="line"
+         id="tspan5513"
+         style="stroke-width:1.265"
+         x="271.59247"
+         y="73.139931">visualización</tspan></text>
+  </g>
+</svg>
