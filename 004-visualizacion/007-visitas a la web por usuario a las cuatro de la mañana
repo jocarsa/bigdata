@@ -1,0 +1,9 @@
+SELECT 
+strftime('%H', datetime(utc, 'unixepoch')) AS hora,
+COUNT(Identificador) as Numero,
+usuario
+           
+FROM registros
+WHERE hora LIKE '%04%'
+GROUP BY usuario
+ORDER BY Numero DESC
